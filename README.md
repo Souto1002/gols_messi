@@ -3,7 +3,8 @@
 Aplicação acadêmica em Streamlit com dois dashboards, baseada na EDA de um arquivo de gols de Lionel Messi. O laboratório explora distribuições e correlações. O painel editorial ajuda **jornalistas e produtores de conteúdo esportivo** a identificar pautas sobre trajetória, adversários e tipos de gol.
 
 **Autor(a):** Lucas Souto Maior Caldas  
-**Repositório público:** https://github.com/Souto1002/gols_messi  
+**Repositório público:** https://github.com/Souto1002/gols_messi 
+**Aplicação publicada** https://golsmessi-94v7bauspkfbprrwgeqj4c.streamlit.app/   
 
 ## O que há no app
 
